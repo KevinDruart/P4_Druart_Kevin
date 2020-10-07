@@ -1048,7 +1048,7 @@ h4 {
 }
 
 @media only screen and (min-width: 576px) {
-    div#bloc-7 {
+    #bloc-7 {
         width: 80%;
         max-width: 576px;
         margin-left: auto;
