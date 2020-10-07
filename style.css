@@ -1040,3 +1040,9 @@ h4 {
         text-align: center;
     }
 }
+
+/* modif */
+
+.comments p, quote {
+    font-size: 20px;
+}
