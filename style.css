@@ -1046,3 +1046,12 @@ h4 {
 .comments p, quote {
     font-size: 20px;
 }
+
+@media @media only screen and (min-width: 576px) {
+    div#bloc-7 {
+        width: 80%;
+        max-width: 576px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
