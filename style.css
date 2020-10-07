@@ -1047,7 +1047,7 @@ h4 {
     font-size: 20px;
 }
 
-@media only screen and (min-width: 576px) {
+@media (min-width: 576px) {
     #bloc-7 {
         width: 80%;
         max-width: 576px;
