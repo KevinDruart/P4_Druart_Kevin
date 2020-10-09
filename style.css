@@ -332,8 +332,7 @@ a:hover {
     text-align: inherit;
 }
 
-.nav > li a:hover,
-.nav > li a:focus {
+.nav > li a:hover {
     background: transparent;
 }
 
@@ -554,7 +553,7 @@ a[data-lightbox]:hover::before {
     -webkit-transform: translateY(-50%);
 }
 
-a[data-lightbox]:hover img {
+a[data-lightbox]:hover, :focus img {
     opacity: 0.6;
     -webkit-animation-fill-mode: none;
     animation-fill-mode: none;
@@ -1044,5 +1043,8 @@ h4 {
 /* modification */
 .focused:focus {
     background-color: #F0CDBC;
-    color: #383838
+}
+
+.btn-atomic-tangerine:focus {
+    color: #383838;
 }
