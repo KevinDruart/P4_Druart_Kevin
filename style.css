@@ -1042,9 +1042,13 @@ h4 {
 
 /* modification */
 .focused:focus {
-    background-color: #F0CDBC;
+    background-color: #F4AC8B;
+}
+
+.focused-text {
+    color: #2b2b2b;
 }
 
 .btn-atomic-tangerine:focus a{
-    color: #383838;
+    color: #2b2b2b;
 }
