@@ -334,8 +334,7 @@ a:hover {
 
 .nav > li a:hover,
 .nav > li a:focus {
-    background: #c27956;
-    border-radius: 20%;
+    background: transparent;
 }
 
 .navbar-toggle {
@@ -555,7 +554,7 @@ a[data-lightbox]:hover::before {
     -webkit-transform: translateY(-50%);
 }
 
-a[data-lightbox]:hover, :focus img {
+a[data-lightbox]:hover img {
     opacity: 0.6;
     -webkit-animation-fill-mode: none;
     animation-fill-mode: none;
@@ -1040,4 +1039,10 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+/* modification */
+.focused:focus {
+    background-color: #F0CDBC;
+    color: #383838
 }
