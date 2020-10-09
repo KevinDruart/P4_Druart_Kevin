@@ -1040,18 +1040,3 @@ h4 {
         text-align: center;
     }
 }
-
-/* modif */
-
-.comments p, quote {
-    font-size: 20px;
-}
-
-@media (min-width: 576px) {
-    #bloc-7 {
-        width: 80%;
-        max-width: 576px;
-        margin-left: auto;
-        margin-right: auto;
-    }
-}
