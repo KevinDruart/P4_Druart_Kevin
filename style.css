@@ -1045,6 +1045,6 @@ h4 {
     background-color: #F0CDBC;
 }
 
-.btn-atomic-tangerine:focus {
+.btn-atomic-tangerine:focus a{
     color: #383838;
 }
