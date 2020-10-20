@@ -683,12 +683,12 @@ p {
 }
 
 .cta-hero {
-    margin-top: 22px;
-    color: #FFFFFF!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
     font-weight: 700;
+    background: #C84D14;
+    color: #FFFFFF!important;
 }
 
 .social {
@@ -770,15 +770,11 @@ h4 {
     color: #ffffff!important;
 }
 
-.btn-atomic-tangerine {
-    background: #C84D14;
-    color: #FFFFFF!important;
-}
-
+/*
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
     color: #FFFFFF!important;
-}
+}*/
 
 .ltc-white {
     color: #FFFFFF!important;
