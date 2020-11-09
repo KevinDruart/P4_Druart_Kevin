@@ -911,3 +911,6 @@ a.focused-text.ltc-white.bold-link:focus {
 .fa-focused:focus .icon-md {
     color: white;
 }
+.tc-white {
+    font-size: 20px;
+}
