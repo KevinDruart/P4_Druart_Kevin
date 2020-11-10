@@ -908,3 +908,8 @@ a.focused-text.ltc-white.bold-link:focus {
 .tc-white {
     font-size: 20px;
 }
+
+.reseaux {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
