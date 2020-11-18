@@ -913,3 +913,8 @@ a.focused-text.ltc-white.bold-link:focus {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
 }
+
+
+.footer-blockquote {
+    color: #c84d14;
+}
